@@ -10,8 +10,8 @@
 ```
 Simple system init (Not work for now it in development :|)
 ## Features:
-- Simple to use(TODO)
-- Change services with GUI(TODO)
+**- Simple to use(TODO)**
+**- Change services with GUI(TODO)**
 - Easy to install\n
 - And Other
 ## Developers
